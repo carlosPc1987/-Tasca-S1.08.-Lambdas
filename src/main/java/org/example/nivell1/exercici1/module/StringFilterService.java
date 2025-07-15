@@ -1,4 +1,4 @@
-package org.example.nivell1.exercici1.model;
+package org.example.nivell1.exercici1.module;
 
 import java.util.List;
 import java.util.stream.Collectors;

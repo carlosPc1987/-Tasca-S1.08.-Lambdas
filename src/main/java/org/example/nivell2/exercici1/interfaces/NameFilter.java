@@ -1,4 +1,4 @@
-package org.example.nivell2.exercici1.module;
+package org.example.nivell2.exercici1.interfaces;
 
 
 import java.util.List;

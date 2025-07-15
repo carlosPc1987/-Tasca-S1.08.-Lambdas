@@ -1,4 +1,4 @@
-package org.example.nivell2;
+package org.example.nivell2.exercici2;
 
 import org.example.nivell2.exercici2.application.ProgramExecutor;
 

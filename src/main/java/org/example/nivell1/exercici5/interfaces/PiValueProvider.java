@@ -1,4 +1,4 @@
-package org.example.nivell1.exercici5.module;
+package org.example.nivell1.exercici5.interfaces;
 
 
 @FunctionalInterface

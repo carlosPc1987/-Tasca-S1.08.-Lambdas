@@ -1,4 +1,4 @@
-package org.example.nivell1.exercici8.module;
+package org.example.nivell1.exercici8.interfaces;
 
 @FunctionalInterface
 public interface StringReverser {
