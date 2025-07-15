@@ -9,6 +9,6 @@ public class StringFilterService {
         return inputList.stream()
                 .filter(s -> s.toLowerCase().contains("o"))
                 .filter(s -> s.length() > 5)
-                .collect(Collectors.toList());
+                .toList();
     }
 }

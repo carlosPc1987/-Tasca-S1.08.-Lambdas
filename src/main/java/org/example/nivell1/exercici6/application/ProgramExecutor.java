@@ -11,7 +11,7 @@ public class ProgramExecutor {
         List<Object> mixedList = Arrays.asList("pear", 123, "banana", "kiwi", 456, "apple", "fig", 789);
 
         DataSorter sorter = new DataSorter();
-        List<Object> sortedStrings = sorter.sortByTextLength(mixedList);
+        List<String> sortedStrings = sorter.sortByTextLength(mixedList);
 
         System.out.println("Sorted strings by length: " + sortedStrings);
     }

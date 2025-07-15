@@ -8,6 +8,6 @@ public class StringFilterService {
     public List<String> filterByLetterO(List<String> inputList) {
         return inputList.stream()
                 .filter(s -> s.toLowerCase().contains("o"))
-                .collect(Collectors.toList());
+                .toList();
     }
 }
